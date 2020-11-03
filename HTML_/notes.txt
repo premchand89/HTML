@@ -1,0 +1,28 @@
+HTML?
+
+HTML stands for Hypertext Markup Language is used for describing static web pages.
+
+A mark Up language is a set of tags which are used to represent UI.
+
+ Tag is a keyword enclose in angular brackets.
+
+ ex: <html>,<head>,<body>....
+
+
+extension: .html / .htm
+
+
+<html>
+
+   <head>
+   
+   
+   <head>
+
+   <body>
+   
+   
+   <body>
+
+   
+<html>

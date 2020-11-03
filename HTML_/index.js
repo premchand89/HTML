@@ -1,0 +1,1 @@
+//alert('Be alert,Stay Away From Rain')
